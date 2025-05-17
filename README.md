@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dhruva
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning web development
+- 👀 I’m Java developer and I also have intrest in Python, C++.
+- 🌱 I’m currently a Software Engineer in Zycys Infortech Pvt. Ltd.
+- 
 
 <!---
 Dhruv8542/Dhruv8542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
